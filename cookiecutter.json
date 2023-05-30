@@ -1,0 +1,7 @@
+{
+  "project_name": "Sample Application",
+  "repo_name": "test",
+  "description": "",
+  "database": ["mysql", "mongodb", "none"],
+  "message_queue": ["kafka","none"]
+}
